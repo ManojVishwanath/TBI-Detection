@@ -1,3 +1,3 @@
 # TBI-Detection
-# Masters' Thesis
+## Masters' Thesis
 Codebase for "Detection of Traumatic Brain Injury Using a Standard Machine Learning Pipeline in Mouse and Human Sleep Electroencephalogram"
